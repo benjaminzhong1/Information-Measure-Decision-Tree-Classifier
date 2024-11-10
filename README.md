@@ -1,6 +1,6 @@
 # Information-Measure-Decision-Tree-Classifier
 Classification using Information Measure and Expected Outcome
-[video walk-through] [https://youtu.be/o-R0pAVjwZ8?si=zx8fHe_bKkzbR3sT]
+[video walk-through](https://youtu.be/o-R0pAVjwZ8?si=zx8fHe_bKkzbR3sT)
 
 ## Key Concepts
 * Shannon Entropy (bits)
